@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Prajwal_Portfolio/static/css/main.0f1882a0.css",
-    "main.js": "/Prajwal_Portfolio/static/js/main.a48ceed9.js",
+    "main.css": "/Prajwal_Portfolio/static/css/main.6fd4f8bb.css",
+    "main.js": "/Prajwal_Portfolio/static/js/main.2af6c533.js",
     "static/js/787.1ed0c42c.chunk.js": "/Prajwal_Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/SSLC Marks Card.jpg": "/Prajwal_Portfolio/static/media/SSLC Marks Card.085c7a964a4cadcdb594.jpg",
     "static/media/Project Paper Certificate.jpg": "/Prajwal_Portfolio/static/media/Project Paper Certificate.a84fbc4295030b1ef58c.jpg",
@@ -31,7 +31,6 @@
     "static/media/Finastra.jpg": "/Prajwal_Portfolio/static/media/Finastra.2bfe0065cbe71f9612ce.jpg",
     "static/media/java.png": "/Prajwal_Portfolio/static/media/java.4e332879122f609caa57.png",
     "static/media/Earth.jpg": "/Prajwal_Portfolio/static/media/Earth.d1d780b32d2ab9871a5b.jpg",
-    "static/media/resume.pdf": "/Prajwal_Portfolio/static/media/resume.7dd07bf1c391c82c47fb.pdf",
     "static/media/Linkedin_Python.PNG": "/Prajwal_Portfolio/static/media/Linkedin_Python.89e31f11b3453b3037f0.PNG",
     "static/media/Linkedin_ML.PNG": "/Prajwal_Portfolio/static/media/Linkedin_ML.4f8f5e61ecef0938b0a9.PNG",
     "static/media/bootstrap.png": "/Prajwal_Portfolio/static/media/bootstrap.cb0fcc269e8250f3551b.png",
@@ -43,6 +42,7 @@
     "static/media/JW.jpg": "/Prajwal_Portfolio/static/media/JW.271cd41243d8d2870488.jpg",
     "static/media/Postman.jpg": "/Prajwal_Portfolio/static/media/Postman.b7dcf614a7c07256b784.jpg",
     "static/media/redux.png": "/Prajwal_Portfolio/static/media/redux.5de70b7bc0d2556a0958.png",
+    "static/media/Prajwal_K_Resume.pdf": "/Prajwal_Portfolio/static/media/Prajwal_K_Resume.93398c7f325a14153e3f.pdf",
     "static/media/css.png": "/Prajwal_Portfolio/static/media/css.1334cb45a7d5ad096543.png",
     "static/media/Earth.png": "/Prajwal_Portfolio/static/media/Earth.af736e58259f799d4026.png",
     "static/media/tensorflow.png": "/Prajwal_Portfolio/static/media/tensorflow.5743c8d5ca24900220f1.png",
@@ -70,12 +70,12 @@
     "static/media/AmazonS3-removebg-preview.png": "/Prajwal_Portfolio/static/media/AmazonS3-removebg-preview.38c431e41fa70b97421d.png",
     "static/media/npm.png": "/Prajwal_Portfolio/static/media/npm.5904c46fdce9a3192c3b.png",
     "index.html": "/Prajwal_Portfolio/index.html",
-    "main.0f1882a0.css.map": "/Prajwal_Portfolio/static/css/main.0f1882a0.css.map",
-    "main.a48ceed9.js.map": "/Prajwal_Portfolio/static/js/main.a48ceed9.js.map",
+    "main.6fd4f8bb.css.map": "/Prajwal_Portfolio/static/css/main.6fd4f8bb.css.map",
+    "main.2af6c533.js.map": "/Prajwal_Portfolio/static/js/main.2af6c533.js.map",
     "787.1ed0c42c.chunk.js.map": "/Prajwal_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f1882a0.css",
-    "static/js/main.a48ceed9.js"
+    "static/css/main.6fd4f8bb.css",
+    "static/js/main.2af6c533.js"
   ]
 }
