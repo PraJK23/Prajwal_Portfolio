@@ -34,7 +34,7 @@
             ],
             "download": {
                 "buttonName": "Download Resume",
-                "fileName": "resume.pdf"
+                "fileName": "Prajwal_K_Resume.pdf"
             }
         },
         "skill": {
@@ -198,7 +198,6 @@
                 {
                     "name": "Portfolio",
                     "icon": "react.png",
-                    "url": "https://github.com/ShreyasSingri/portfolio",
                     "description": "This is a complete ReactJS based project that provides a profile portfolio information to all."
                 },
                 {
