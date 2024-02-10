@@ -1,0 +1,339 @@
+{
+    "Name": "Prajwal K",
+    "HeaderMenu": [
+        {
+            "label": "About",
+            "value": "about"
+        },
+        {
+            "label": "Skills",
+            "value": "skill"
+        },
+        {
+            "label": "Work & Projects",
+            "value": "project"
+        },
+        {
+            "label": "Certificates & Awards",
+            "value": "certificate"
+        },
+        {
+            "label": "Contact",
+            "value": "contact"
+        }
+    ],
+    "Pages": {
+        "about": {
+            "type": "Info",
+            "title": "Hello,",
+            "subtitle": "I am Prajwal K",
+            "table": [
+                [
+                    "Full Stack Developer at Boeing"
+                ]
+            ],
+            "download": {
+                "buttonName": "Download Resume",
+                "fileName": "resume.pdf"
+            }
+        },
+        "skill": {
+            "type": "Card",
+            "cards": [
+                {
+                    "name": "Java",
+                    "icon": "java.png",
+                    "url": "https://www.java.com"
+                },
+                {
+                    "name": "Angular",
+                    "icon": "Angular-removebg-preview.png",
+                    "url": "https://angular.io"
+                },
+                {
+                    "name": "Spring Boot",
+                    "icon": "SpringBoot.png",
+                    "url": "https://spring.io/projects/spring-boot"
+                },
+                {
+                    "name": "JWT",
+                    "icon": "JWT.png",
+                    "url": "https://jwt.io"
+                },
+                {
+                    "name": "Spring Security",
+                    "icon": "SpringSecurity-removebg-preview.png",
+                    "url": "https://spring.io/projects/spring-security"
+                },
+                {
+                    "name": "Microsoft Azure",
+                    "icon": "Azure-removebg-preview.png",
+                    "url": "https://azure.microsoft.com/en-in"
+                },
+                {
+                    "name": "Geopackage",
+                    "icon": "Geopackage-removebg-preview.png",
+                    "url": "https://www.geopackage.org"
+                },
+                {
+                    "name": "OpenStreetMap",
+                    "icon": "OpenStreetMap-removebg-preview.png",
+                    "url": "https://www.openstreetmap.org"
+                },
+                {
+                    "name": "MySQL",
+                    "icon": "MySQL-removebg-preview.png",
+                    "url": "https://www.mysql.com"
+                },
+                {
+                    "name": "PostgreSQL",
+                    "icon": "Postgres-removebg-preview.png",
+                    "url": "https://www.postgresql.org"
+                },
+                {
+                    "name": "Amazon S3",
+                    "icon": "AmazonS3-removebg-preview.png",
+                    "url": "https://aws.amazon.com/s3/"
+                },
+                {
+                    "name": "Postman",
+                    "icon": "Postman.jpg",
+                    "url": "https://www.postman.com/"
+                },
+                {
+                    "name": "Docker",
+                    "icon": "docker-removebg-preview.png",
+                    "url": "https://www.docker.com"
+                },
+                {
+                    "name": "Kubernetes",
+                    "icon": "kubernetes-removebg-preview.png",
+                    "url": "https://kubernetes.io"
+                },
+                {
+                    "name": "PlayWright",
+                    "icon": "PlayWright-removebg-preview.png",
+                    "url": "https://playwright.dev"
+                },
+                {
+                    "name": "Python",
+                    "icon": "python.png",
+                    "url": "https://www.python.org"
+                },
+                {
+                    "name": "React",
+                    "icon": "react.png",
+                    "url": "https://reactjs.org"
+                },
+                {
+                    "name": "NPM",
+                    "icon": "npm.png",
+                    "url": "https://github.com/npm/cli"
+                },
+                {
+                    "name": "Git",
+                    "icon": "git.png",
+                    "url": "https://git-scm.com"
+                },
+                {
+                    "name": "IBM Doors",
+                    "icon": "IBMDoors-removebg-preview.png",
+                    "url": "https://www.ibm.com/docs/en/engineering-lifecycle-management-suite/doors/9.7.0?topic=overview-doors"
+                },
+                {
+                    "name": "Microsoft Office",
+                    "icon": "MicrosoftOffice-removebg-preview.png",
+                    "url": "https://www.office.com/"
+                },
+                {
+                    "name": "Google Generative AI",
+                    "icon": "GoogleGenAI-removebg-preview.png",
+                    "url": "https://ai.google/discover/generativeai/"
+                },
+                {
+                    "name": "Tensorflow",
+                    "icon": "tensorflow.png",
+                    "url": "https://www.tensorflow.org"
+                },
+                {
+                    "name": "Keras",
+                    "icon": "keras.png",
+                    "url": "https://keras.io"
+                },
+                {
+                    "name": "OpenCV",
+                    "icon": "opencv.png",
+                    "url": "https://opencv.org"
+                },
+                {
+                    "name": "Anaconda",
+                    "icon": "Anaconda-removebg-preview.png",
+                    "url": "https://www.anaconda.com"
+                },
+                {
+                    "name": "Windows",
+                    "icon": "windows.png",
+                    "url": "https://opencv.org"
+                },
+                {
+                    "name": "Ubuntu",
+                    "icon": "Ubuntu_logo-removebg-preview.png",
+                    "url": "https://ubuntu.com"
+                }
+            ]
+        },
+        "project": {
+            "type": "Card",
+            "cards": [
+                {
+                    "name": "Full Stack Developer ",
+                    "icon": "Boeing2.jpg",
+                    "description": "As a full-stack developer, involved in both frontend and backend development, with responsibilities spanning the entire software development lifecycle. My role involves designing user-friendly interfaces, developing robust backend systems, integrating databases and APIs, and ensuring seamless functionality across the entire application stack. "
+                },
+                {
+                    "name": "Associate Software Engineer",
+                    "icon": "Finastra_Logo.jpg",
+                    "description": "Worked as Java Backend Engineer contributing to the Retail Banking Project called 'Future Banking Essence' \nIntegrated Core Banking Solutions like UKFPS, SWIFT International Payment Systems, ATM Network, etc to other Finastra Products."
+                },
+                {
+                    "name": "Portfolio",
+                    "icon": "react.png",
+                    "url": "https://github.com/ShreyasSingri/portfolio",
+                    "description": "This is a complete ReactJS based project that provides a profile portfolio information to all."
+                },
+                {
+                    "name": "Aerial and Ground Connected Autonomous System",
+                    "description": "Academic Project done in College.\nProject focuses on deploying a drone & donkey-car both serves as the aiding tools in both air & land during the course of any natural calamities"
+                },
+                {
+                    "name": "SeatDoc",
+                    "icon": "SeatDoc.jpg",
+                    "description": "Autonomous Health Tracking System for Passengers on flight"},
+                {
+                    "name": "Home Automation using Google Assistant",
+                    "icon": "IOT.png",
+                    "description": "Internship Project on IoT.\nProject focuses on enabling automation to the electronic devices at Home using Advance IoT Solutions with the help of Google Automation"
+                }
+
+            ]
+        },
+        "certificate": {
+            "type": "Card",
+            "cards": [
+                {
+                    "name": "Best Outgoing Student Award",
+                    "url": "Best Student.jpg",
+                    "highlight": true,
+                    "description": "Awarded with 'Best Outgoing Student' Title for education excellency in JSS High School."
+                },
+                {
+                    "name": "University UG Certificate",
+                    "url": "UG_Certificate.jpg",
+                    "highlight": true,
+                    "description": "Undergraduation Completion Certificate by VTU University."
+                },
+                {
+                    "name": "Course Completion Certificate",
+                    "url": "Course Completion Certificate.jpg",
+                    "highlight": true,
+                    "description": "Course Completion Certificate by AMC Engineering College."
+                },
+                {
+                    "name": "Exceptional Performance at Boeing",
+                    "url": "Pride@Boeing.PNG",
+                    "highlight": true,
+                    "description": "Outstanding performance and invaluable contributions to the 'BFMS AvionX Navigation Database Generator Utility' Project"
+                },
+                {
+                    "name": "Wall of Fame at Boeing",
+                    "url": "WOF2.PNG",
+                    "highlight": true,
+                    "description": "Significant Contributions towards 'BFMS AvionX Navigation Database Generator Utility' Project"
+                },
+                {
+                    "name": "Azure AI 900",
+                    "url": "Azure AI 900 Certificate.jpg",
+                    "highlight": true,
+                    "description": "Azure AI 900 Certification by Microsoft."
+                },
+                {
+                    "name": "Applied Accelerated Artificial Intelligence",
+                    "url": "NPTEL Certificate.jpg",
+                    "highlight": true,
+                    "description": "NPTEL course certification by NPTEL."
+                },
+                {
+                    "name": "Master Python for Data Science",
+                    "url": "Linkedin_Python.PNG",
+                    "highlight": true,
+                    "description": "Linkedin Learning Certificate on Data Science Learning Path."
+                },
+                {
+                    "name": "Become a Machine Learning Specialist",
+                    "url": "Linkedin_ML.PNG",
+                    "highlight": true,
+                    "description": "Linkedin Learning Certificate on Machine Learning Path."
+                },
+                {
+                    "name": "Robokart Certificate",
+                    "url": "robokart_certificate.PNG",
+                    "highlight": true,
+                    "description": "Certificate for winning intercollege Robotics Competition."
+                },
+                {
+                    "name": "Finastra Graduation Certificate",
+                    "url": "Finastra.jpg",
+                    "highlight": true,
+                    "description": "Successfull Completion of Finastra Onboarding Journey."
+                },
+                {
+                    "name": "Paper Presentation on Academic Project",
+                    "url": "Project Paper Certificate.jpg",
+                    "highlight": true,
+                    "description": "Paper Presentation on Academic Project"
+                },
+                {
+                    "name": "National Means Merit Scholarship.",
+                    "url": "NMMS Certificate.jpg",
+                    "highlight": true,
+                    "description": "Successfully cleared National Level Exam 'NMMS' and availed Scholarship "
+                }
+                
+            ]
+        },
+        "contact": {
+            "type": "Info",
+            "title": "Contact Information",
+            "table": [
+                [
+                    "Name :",
+                    "Prajwal K"
+                ],
+                [
+                    "Address :",
+                    "4/46, 1st Main, 1st Cross, Siddappa Garden, Chunchgatta Main Road, Bengaluru 560062"
+                ],
+                [
+                    "Phone No :",
+                    "+91 9108882257"
+                ],
+                [
+                    "Email :",
+                    "prajwalindian23@gmail.com"
+                ]
+            ]
+        }
+    },
+    "SocialMedia": [
+        {
+            "label": "Github",
+            "link": "https://github.com/PraJK23",
+            "icon": "GitHub.png"
+        },
+        {
+            "label": "LinkedIn",
+            "link": "https://www.linkedin.com/in/prajwalk23",
+            "icon": "LinkedIn.png"
+        }
+    ]
+}
